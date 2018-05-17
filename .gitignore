@@ -1,5 +1,27 @@
 .DS_Store
 
+_build/
+
+*.stan
+
+*.cppimporthash
+
+Makefile*
+
+*.cpp
+*.hpp
+*.exe
+*.o
+
+*.pkl
+*.zip
+*~
+
+notebooks/*.png
+notebooks/*.pdf
+
+grading/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
